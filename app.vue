@@ -11,7 +11,7 @@
 
 <script>
 module.exports = {
-  data: () => {
+  data () {
     return {
       msg: 'Hello world!'
     }
