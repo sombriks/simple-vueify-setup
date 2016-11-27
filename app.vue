@@ -10,8 +10,8 @@
 </template>
 
 <script>
-export default {
-  data () {
+module.exports = {
+  data: () => {
     return {
       msg: 'Hello world!'
     }
